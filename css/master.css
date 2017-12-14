@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:700');
+
+html {
+  background: url(../ozat.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+body{
+  background: none !important;
+}
+.phone{
+  color: tomato !important;
+  padding: 7em 0 2em 0;
+  background-color: none !important;
+  font-family: "Rubik", sans-serif;
+}
+a{
+  color: tomato !important;
+}
